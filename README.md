@@ -1,5 +1,5 @@
 # Reciyuan
-Low逼大佬机器学习表
+Low逼机器学习表
 A
 
 B
